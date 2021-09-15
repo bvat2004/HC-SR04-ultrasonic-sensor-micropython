@@ -2,6 +2,7 @@
 ไฟล์ที่จำเป็น
 hcsr04.py
 main.py
+ssd1306.py (กรณีแสดงค่าผ่านจอ OLED)
 
 อธิบายการทำงานของ code
 1.เรียกคลาส Hcsro4 มาใช้งานจาก Hcscr04 library
