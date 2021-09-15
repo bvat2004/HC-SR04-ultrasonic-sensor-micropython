@@ -1,4 +1,8 @@
 # HC-SR04-ultrasonic-sensor-micropython
+ไฟล์ที่จำเป็น
+hcsr04.py
+main.py
+
 อธิบายการทำงานของ code
 1.เรียกคลาส Hcsro4 มาใช้งานจาก Hcscr04 library
 2.เรียกใช้ time library มาหน่วงเวลา
